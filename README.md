@@ -1,4 +1,4 @@
-# langchain_examples
+# Adaptive RAG with Langgraph
 
 Reproduces notebook on following link as a python package:
 
