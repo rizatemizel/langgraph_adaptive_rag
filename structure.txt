@@ -1,0 +1,32 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 2EBB-61FE
+C:.
+-   .env
+-   .gitignore
+-   ingestion.py
+-   main.py
+-   README.md
+-   requirements.txt
+-   structure.txt
+-   
++¦¦¦.chroma
+-   -   chroma.sqlite3
+-   -   
+-   +¦¦¦af40dd86-cb54-4339-b2f4-1548784bbe75
+-   -       data_level0.bin
+-   -       header.bin
+-   -       length.bin
+-   -       link_lists.bin
+-   -       
+-   L¦¦¦f612e76b-a160-46db-8003-b10b48bc58ce
+-           data_level0.bin
+-           header.bin
+-           length.bin
+-           link_lists.bin
+-           
+L¦¦¦graph
+    +¦¦¦chains
+    -       retrival_grader.py
+    -       router.py
+    -       
+    L¦¦¦nodes

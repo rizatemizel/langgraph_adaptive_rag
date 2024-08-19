@@ -140,6 +140,10 @@ venv.bak/
 # mkdocs documentation
 /site
 
+
+# Ignore the .chroma directory
+.chroma/
+
 # mypy
 .mypy_cache/
 .dmypy.json
